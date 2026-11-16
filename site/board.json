@@ -3,7 +3,7 @@
   {
    "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-14",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "carnival-breeze-2027-01-11",
@@ -27,7 +27,7 @@
   {
    "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "carnival-breeze-2027-02-04",
@@ -48,25 +48,20 @@
    "url": "https://www.cruisebound.com/sailing/105924"
   },
   {
-   "cabin": "Interior",
+   "cabin": "Oceanview",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-14",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "carnival-breeze-2027-04-19",
    "line": "Carnival Cruise Line",
    "nights": 5,
-   "perks": [
-    "Up to 40% off all fares",
-    "50% reduced deposit",
-    "Category upgrade"
-   ],
    "photoKey": "progreso-pier",
    "ports": [
     "Cozumel",
     "Progreso"
    ],
-   "price": 300,
+   "price": 459,
    "priceNote": "Per person, double occupancy · taxes & port fees extra",
    "provider": "Cruisebound",
    "region": "Western Caribbean",
@@ -74,13 +69,12 @@
    "sailDate": "2027-04-19",
    "ship": "Carnival Breeze",
    "title": "5-Day Western Caribbean",
-   "url": "https://www.cruisebound.com/sailing/78619",
-   "wasPrice": 500
+   "url": "https://www.cruisebound.com/sailing/78619"
   },
   {
-   "cabin": "Balcony",
+   "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "carnival-dream-2026-11-28",
@@ -92,7 +86,7 @@
     "Belize City",
     "Cozumel"
    ],
-   "price": 539,
+   "price": 389,
    "priceNote": "Per person, double occupancy · taxes & port fees extra",
    "provider": "Cruisebound",
    "region": "Western Caribbean",
@@ -105,7 +99,57 @@
   {
    "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
+   "departPort": "Galveston, TX",
+   "foundOn": "2026-11-16",
+   "id": "carnival-dream-2027-04-03",
+   "line": "Carnival Cruise Line",
+   "nights": 7,
+   "photoKey": "belize-harbor",
+   "ports": [
+    "Roatán",
+    "Belize City",
+    "Cozumel"
+   ],
+   "price": 509,
+   "priceNote": "Per person, double occupancy · taxes & port fees extra",
+   "provider": "Cruisebound",
+   "region": "Western Caribbean",
+   "returnDate": "2027-04-10",
+   "sailDate": "2027-04-03",
+   "ship": "Carnival Dream",
+   "title": "7-Day Western Caribbean",
+   "url": "https://www.cruisebound.com/sailing/78709"
+  },
+  {
+   "cabin": "Interior",
+   "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
+   "checkedOn": "2026-11-16",
+   "departPort": "Galveston, TX",
+   "foundOn": "2026-11-16",
+   "id": "carnival-horizon-2027-05-19",
+   "line": "Carnival Cruise Line",
+   "nights": 8,
+   "photoKey": "roatan-dock",
+   "ports": [
+    "Montego Bay",
+    "Grand Cayman",
+    "Roatán"
+   ],
+   "price": 809,
+   "priceNote": "Per person, double occupancy · taxes & port fees extra",
+   "provider": "Cruisebound",
+   "region": "Western Caribbean",
+   "returnDate": "2027-05-27",
+   "sailDate": "2027-05-19",
+   "ship": "Carnival Horizon",
+   "title": "8-Day Western Caribbean",
+   "url": "https://www.cruisebound.com/sailing/112308"
+  },
+  {
+   "cabin": "Interior",
+   "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "carnival-jubilee-2027-01-17",
@@ -129,7 +173,7 @@
   {
    "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "carnival-miracle-2026-12-03",
@@ -152,7 +196,33 @@
   {
    "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-14",
+   "checkedOn": "2026-11-16",
+   "departPort": "Galveston, TX",
+   "foundOn": "2026-11-16",
+   "id": "carnival-miracle-2027-03-15",
+   "line": "Carnival Cruise Line",
+   "nights": 10,
+   "photoKey": "galveston-pier",
+   "ports": [
+    "Celebration Key",
+    "Half Moon Cay",
+    "Grand Turk",
+    "Amber Cove"
+   ],
+   "price": 639,
+   "priceNote": "Per person, double occupancy · taxes & port fees extra",
+   "provider": "Cruisebound",
+   "region": "Eastern Caribbean",
+   "returnDate": "2027-03-25",
+   "sailDate": "2027-03-15",
+   "ship": "Carnival Miracle",
+   "title": "10-Day Eastern Caribbean",
+   "url": "https://www.cruisebound.com/sailing/80223"
+  },
+  {
+   "cabin": "Interior",
+   "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "disney-magic-2026-12-13",
@@ -173,48 +243,72 @@
    "url": "https://www.cruisebound.com/sailing/111146"
   },
   {
-   "cabin": "Inside",
-   "caveat": "Avoya Travel's lowest listed fare for this sailing on the day we checked. Fares change daily; confirm taxes, port fees and gratuities before you book.",
-   "checkedOn": "2026-11-15",
+   "cabin": "Balcony",
+   "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "liberty-of-the-seas-2026-12-07",
-   "line": "Royal Caribbean",
-   "nights": 5,
-   "photoKey": "cruise-ships",
-   "ports": [
-    "Costa Maya",
-    "Cozumel"
-   ],
-   "price": 398,
-   "priceNote": "Avoya's lowest inside fare · taxes & port fees usually extra",
-   "provider": "Avoya Travel",
-   "region": "Western Caribbean",
-   "returnDate": "2026-12-12",
-   "sailDate": "2026-12-07",
-   "ship": "Liberty of the Seas",
-   "title": "5-Night Western Caribbean",
-   "url": "https://www.avoyatravel.com/cruises/royal-caribbean/ships/liberty-of-the-seas/RC-LB01261207LB05W650/"
-  },
-  {
-   "cabin": "Suite",
-   "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-15",
-   "departPort": "Galveston, TX",
-   "foundOn": "2026-11-07",
-   "id": "liberty-of-the-seas-2027-02-15",
    "line": "Royal Caribbean",
    "nights": 5,
    "perks": [
     "60% off the 2nd guest",
     "Kids sail free"
    ],
+   "photoKey": "cruise-ships",
+   "ports": [
+    "Costa Maya",
+    "Cozumel"
+   ],
+   "price": 472,
+   "priceNote": "Per person, double occupancy · taxes & port fees extra",
+   "provider": "Cruisebound",
+   "region": "Western Caribbean",
+   "returnDate": "2026-12-12",
+   "sailDate": "2026-12-07",
+   "ship": "Liberty of the Seas",
+   "title": "5-Night Western Caribbean",
+   "url": "https://www.cruisebound.com/sailing/95698",
+   "wasPrice": 674
+  },
+  {
+   "cabin": "Inside",
+   "caveat": "Avoya Travel's lowest listed fare for this sailing on the day we checked. Fares change daily; confirm taxes, port fees and gratuities before you book.",
+   "checkedOn": "2026-11-16",
+   "departPort": "Galveston, TX",
+   "foundOn": "2026-11-16",
+   "id": "liberty-of-the-seas-2027-01-28",
+   "line": "Royal Caribbean",
+   "nights": 4,
+   "photoKey": "ship-liberty",
+   "ports": [
+    "Cozumel"
+   ],
+   "price": 299,
+   "priceNote": "Avoya's lowest inside fare · taxes & port fees usually extra",
+   "provider": "Avoya Travel",
+   "region": "Western Caribbean",
+   "returnDate": "2027-02-01",
+   "sailDate": "2027-01-28",
+   "ship": "Liberty of the Seas",
+   "title": "4-Night Western Caribbean",
+   "url": "https://www.avoyatravel.com/cruises/royal-caribbean/ships/liberty-of-the-seas/RC-LB01270128LB04W201/"
+  },
+  {
+   "cabin": "Interior",
+   "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
+   "checkedOn": "2026-11-16",
+   "departPort": "Galveston, TX",
+   "foundOn": "2026-11-07",
+   "id": "liberty-of-the-seas-2027-02-15",
+   "line": "Royal Caribbean",
+   "nights": 5,
    "photoKey": "at-sea-wake",
    "ports": [
     "Cozumel",
     "Costa Maya"
    ],
-   "price": 1771,
+   "price": 171,
    "priceNote": "Per person, double occupancy · taxes & port fees extra",
    "provider": "Cruisebound",
    "region": "Western Caribbean",
@@ -222,13 +316,12 @@
    "sailDate": "2027-02-15",
    "ship": "Liberty of the Seas",
    "title": "5-Night Western Caribbean",
-   "url": "https://www.cruisebound.com/sailing/95308",
-   "wasPrice": 2530
+   "url": "https://www.cruisebound.com/sailing/95308"
   },
   {
-   "cabin": "Suite",
+   "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "liberty-of-the-seas-2027-04-17",
@@ -240,10 +333,10 @@
    ],
    "photoKey": "ship-liberty",
    "ports": [
-    "Cozumel",
-    "Costa Maya"
+    "Costa Maya",
+    "Cozumel"
    ],
-   "price": 1120,
+   "price": 224,
    "priceNote": "Per person, double occupancy · taxes & port fees extra",
    "provider": "Cruisebound",
    "region": "Western Caribbean",
@@ -252,12 +345,37 @@
    "ship": "Liberty of the Seas",
    "title": "5-Night Western Caribbean",
    "url": "https://www.cruisebound.com/sailing/95702",
-   "wasPrice": 1600
+   "wasPrice": 320
+  },
+  {
+   "cabin": "Interior",
+   "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
+   "checkedOn": "2026-11-16",
+   "departPort": "Galveston, TX",
+   "foundOn": "2026-11-16",
+   "id": "msc-seascape-2026-11-29",
+   "line": "MSC Cruises",
+   "nights": 7,
+   "photoKey": "roatan-west-end",
+   "ports": [
+    "Costa Maya",
+    "Roatán",
+    "Cozumel"
+   ],
+   "price": 184,
+   "priceNote": "Per person, double occupancy · taxes & port fees extra",
+   "provider": "Cruisebound",
+   "region": "Western Caribbean",
+   "returnDate": "2026-12-06",
+   "sailDate": "2026-11-29",
+   "ship": "MSC Seascape",
+   "title": "7-Night Western Caribbean",
+   "url": "https://www.cruisebound.com/sailing/96342"
   },
   {
    "cabin": "Inside",
    "caveat": "Avoya Travel's lowest listed fare for this sailing on the day we checked. Fares change daily; confirm taxes, port fees and gratuities before you book.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "msc-seascape-2027-01-17",
@@ -282,7 +400,7 @@
   {
    "cabin": "Inside",
    "caveat": "Avoya Travel's lowest listed fare for this sailing on the day we checked. Fares change daily; confirm taxes, port fees and gratuities before you book.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "msc-seascape-2027-01-31",
@@ -307,7 +425,7 @@
   {
    "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "msc-seascape-2027-02-21",
@@ -319,7 +437,7 @@
     "Roatán",
     "Cozumel"
    ],
-   "price": 405,
+   "price": 450,
    "priceNote": "Per person, double occupancy · taxes & port fees extra",
    "provider": "Cruisebound",
    "region": "Western Caribbean",
@@ -332,7 +450,7 @@
   {
    "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "norwegian-viva-2027-01-09",
@@ -362,7 +480,7 @@
   {
    "cabin": "Interior",
    "caveat": "Cruisebound's lowest fare for this sailing on the day we checked. Fares, cabins and promos change daily; taxes, port fees and gratuities are extra.",
-   "checkedOn": "2026-11-14",
+   "checkedOn": "2026-11-16",
    "departPort": "Galveston, TX",
    "foundOn": "2026-11-07",
    "id": "symphony-of-the-seas-2027-01-17",
@@ -393,9 +511,44 @@
  "deals": [
   {
    "adultsOnly": false,
+   "boardLabel": "Cozumel",
+   "caveat": "Base rate plus Travel by Jen's Dallas air add-on; she doesn't name the airport, and international flights from Dallas leave from DFW. Select dates only; holidays and peak dates cost more. Booked through Jetset Vacations, so confirm the final price and any air taxes at checkout. Flights land in Cancun; the transfer to Cozumel isn't included.",
+   "checkedOn": "2026-11-16",
+   "country": "Mexico",
+   "destCode": "CUN",
+   "destination": "Cozumel",
+   "fixedDates": false,
+   "foundOn": "2026-11-16",
+   "id": "tbj-allegro-cozumel",
+   "includes": [
+    "Round-trip flights to Cancun",
+    "4 nights",
+    "All-inclusive"
+   ],
+   "kind": "All-inclusive resort",
+   "nights": 4,
+   "originCode": "DFW",
+   "perks": [
+    "All meals, drinks and tips",
+    "Non-motorized water sports"
+   ],
+   "photoKey": "cozumel-east",
+   "price": 758,
+   "priceNote": "Per person, 2 sharing · $699 base + $59 Dallas air add-on",
+   "provider": "Travel by Jen",
+   "region": "Mexico",
+   "title": "Allegro Cozumel",
+   "travelEnd": "2026-12-31",
+   "travelLabel": "Select dates, Nov – Dec 2026",
+   "travelStart": "2026-11-16",
+   "tripType": "beach",
+   "url": "https://travelbyjen.com/deals/cozumel-allegro-5-days-all-inclusive-w-air-699/"
+  },
+  {
+   "adultsOnly": false,
    "boardLabel": "Cartagena",
    "caveat": "Base rate plus Travel by Jen's Dallas air add-on; she doesn't name the airport, and international flights from Dallas leave from DFW. Select dates only; holidays and 2027 dates cost more. Booked through Jetset Vacations, so confirm the final price and any air taxes at checkout.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "country": "Colombia",
    "destCode": "CTG",
    "destination": "Cartagena",
@@ -429,7 +582,7 @@
    "adultsOnly": false,
    "boardLabel": "Riviera Maya",
    "caveat": "Base rate plus Travel by Jen's Dallas air add-on; she doesn't name the airport, and international flights from Dallas leave from DFW. Select dates only; holidays and 2027 dates cost more. Booked through Jetset Vacations, so confirm the final price and any air taxes at checkout.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "country": "Mexico",
    "destCode": "CUN",
    "destination": "Riviera Maya",
@@ -464,7 +617,7 @@
    "adultsOnly": false,
    "boardLabel": "Tamarindo",
    "caveat": "Base rate plus Travel by Jen's Dallas air add-on; she doesn't name the airport, and international flights from Dallas leave from DFW. Select dates only; holidays and 2027 dates cost more. Booked through Jetset Vacations, so confirm the final price and any air taxes at checkout.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "country": "Costa Rica",
    "destCode": "LIR",
    "destination": "Tamarindo",
@@ -499,7 +652,7 @@
    "adultsOnly": false,
    "boardLabel": "Punta Cana",
    "caveat": "Base rate plus Travel by Jen's Dallas air add-on; she doesn't name the airport, and international flights from Dallas leave from DFW. Select dates only; holidays and 2027 dates cost more. Booked through Jetset Vacations, so confirm the final price and any air taxes at checkout.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "country": "Dominican Republic",
    "destCode": "PUJ",
    "destination": "Miches, Punta Cana",
@@ -532,44 +685,9 @@
   },
   {
    "adultsOnly": false,
-   "boardLabel": "Cabarete",
-   "caveat": "Base rate plus Travel by Jen's Dallas air add-on; she doesn't name the airport, and international flights from Dallas leave from DFW. Select dates only; holidays and 2027 dates cost more. Booked through Jetset Vacations, so confirm the final price and any air taxes at checkout.",
-   "checkedOn": "2026-11-15",
-   "country": "Dominican Republic",
-   "destCode": "POP",
-   "destination": "Cabarete",
-   "fixedDates": false,
-   "foundOn": "2026-11-07",
-   "id": "tbj-viva-tangerine-cabarete",
-   "includes": [
-    "Round-trip flights to Puerto Plata or Santiago",
-    "4 nights",
-    "All-inclusive"
-   ],
-   "kind": "All-inclusive resort",
-   "nights": 4,
-   "originCode": "DFW",
-   "perks": [
-    "Intro kiteboarding lesson included",
-    "Paddleboarding and windsurfing"
-   ],
-   "photoKey": "cabarete-beach",
-   "price": 698,
-   "priceNote": "Per person, 2 sharing · $599 base + $99 Dallas air add-on",
-   "provider": "Travel by Jen",
-   "region": "Caribbean",
-   "title": "Viva Tangerine by Wyndham",
-   "travelEnd": "2026-12-31",
-   "travelLabel": "Select dates, Nov – Dec 2026",
-   "travelStart": "2026-11-07",
-   "tripType": "beach",
-   "url": "https://travelbyjen.com/deals/puerto-plata-dominican-republic-air-5-days-all-inclusive/"
-  },
-  {
-   "adultsOnly": false,
    "boardLabel": "Costa Rica",
    "caveat": "Base rate plus Travel by Jen's Dallas air add-on; she doesn't name the airport, and international flights from Dallas leave from DFW. Select dates only; holidays and 2027 dates cost more. Booked through Jetset Vacations, so confirm the final price and any air taxes at checkout.",
-   "checkedOn": "2026-11-15",
+   "checkedOn": "2026-11-16",
    "country": "Costa Rica",
    "destCode": "SJO",
    "destination": "Arenal & Manuel Antonio",
@@ -603,19 +721,19 @@
    "url": "https://travelbyjen.com/deals/costa-rica-treehouses-and-igloos-7-days-beach-volcano-w-air-799/"
   }
  ],
- "generatedAt": "2026-11-15T07:44:51-06:00",
+ "generatedAt": "2026-11-16T11:38:55-06:00",
  "meta": {
-  "cruiseCount": 15,
-  "dealCount": 29,
-  "nextRefresh": "2026-11-16",
+  "cruiseCount": 20,
+  "dealCount": 28,
+  "nextRefresh": "2026-11-17",
   "sources": [
    "Travel by Jen",
    "Cruisebound",
    "Avoya Travel",
    "GetoutofDallas.com"
   ],
-  "updatedAt": "2026-11-15T07:43:53-06:00",
-  "updatedOn": "2026-11-15"
+  "updatedAt": "2026-11-16T11:38:11-06:00",
+  "updatedOn": "2026-11-16"
  },
  "version": 1
 }
